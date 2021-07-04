@@ -1,16 +1,20 @@
-### Hi there 👋
+<p>
+  <h3 align="center">
+    Hi, i'm <a href="https://github.com/adierebel">@adierebel</a>
+  </h3>
+  <h5 align="center">
+    Full Stack Developer at <a href="https://github.com/idayrus">Idayrus Studio</a>
+  </h3>
+</p>
 
-<!--
-**adierebel/adierebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/adierebel">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adierebel&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&custom_title=GitHub Stats&hide_rank=true"/>
+  </a>
+  
+  <a href="https://github.com/adierebel">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adierebel&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
